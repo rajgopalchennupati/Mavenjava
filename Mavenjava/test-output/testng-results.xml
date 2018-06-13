@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="50" started-at="2018-06-12T17:34:31Z" finished-at="2018-06-12T17:34:32Z">
+  <suite name="Default suite" duration-ms="15318" started-at="2018-06-13T20:57:57Z" finished-at="2018-06-13T20:58:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="50" started-at="2018-06-12T17:34:31Z" finished-at="2018-06-12T17:34:32Z">
-      <class name="qaclickacademy.SeleniumTest">
-        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@2b98378d]" name="BrowserAutomation" duration-ms="17" started-at="2018-06-12T17:34:32Z" finished-at="2018-06-12T17:34:32Z">
+    <test name="Default test" duration-ms="15318" started-at="2018-06-13T20:57:57Z" finished-at="2018-06-13T20:58:13Z">
+      <class name="masteringselenium.BasicTest">
+        <test-method status="PASS" signature="googleCheeseExample()[pri:0, instance:masteringselenium.BasicTest@224edc67]" name="googleCheeseExample" duration-ms="9713" started-at="2018-06-13T20:57:57Z" finished-at="2018-06-13T20:58:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BrowserAutomation -->
-        <test-method status="PASS" signature="sendMail()[pri:0, instance:qaclickacademy.SeleniumTest@2b98378d]" name="sendMail" duration-ms="1" started-at="2018-06-12T17:34:32Z" finished-at="2018-06-12T17:34:32Z">
+        </test-method> <!-- googleCheeseExample -->
+        <test-method status="PASS" signature="googleMilkExample()[pri:0, instance:masteringselenium.BasicTest@224edc67]" name="googleMilkExample" duration-ms="5578" started-at="2018-06-13T20:58:07Z" finished-at="2018-06-13T20:58:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sendMail -->
-      </class> <!-- qaclickacademy.SeleniumTest -->
+        </test-method> <!-- googleMilkExample -->
+      </class> <!-- masteringselenium.BasicTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
