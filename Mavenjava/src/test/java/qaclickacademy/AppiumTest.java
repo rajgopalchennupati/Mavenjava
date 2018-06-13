@@ -8,5 +8,6 @@ public class AppiumTest {
 	public void AppiumAutomation()
 	{
 		System.out.println("Iam in AppiumAutomation");
+		
 	}
 }
